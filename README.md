@@ -90,8 +90,6 @@ If any metric exceeds 80%:
 server-monitor/
 ├── monitor.py           # Main script
 ├── requirements.txt     # Python dependencies
-├── monitor.log          # Output log (optional)
-├── report.pdf           # Project report (optional)
 ├── README.md            # Project documentation
 ├── .gitignore
 ```
