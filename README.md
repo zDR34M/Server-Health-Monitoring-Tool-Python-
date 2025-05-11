@@ -26,7 +26,7 @@ A lightweight Python tool to monitor your server's **CPU**, **Memory**, and **Di
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/server-monitor.git
+git clone https://github.com/zDR34M/server-monitor.git
 cd server-monitor
 ```
 
@@ -102,7 +102,7 @@ server-monitor/
 
 **Tareq Suliman**  
 📧 tareq.cr07@gmail.com  
-🌍 [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+🌍 [LinkedIn Profile](https://www.linkedin.com/in/tareq-suliman/)
 
 ---
 
